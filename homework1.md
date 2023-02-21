@@ -56,5 +56,4 @@ Homework 1 JSON
 16. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
 `# Сохранили файл bug_report.json.`
 17. Синхронизировать внешний и локальный репозиторий JSON.  
-`$ cd ../`  
-`$ git clone git@github.com:SanyaDS/JSON.git`
+`$ git pull`
