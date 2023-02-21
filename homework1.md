@@ -16,7 +16,7 @@ Homework 1 JSON
 5. Закоммитить файл.  
 `$ git commit -m "New file json"`
 6. Отправить файл на внешний GitHub репозиторий.  
-`$ git push origin`
+`$ git push`
 7. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON.  
 `$ vim new.json`  
 `i # добавляем информацию.`  
@@ -27,7 +27,7 @@ Homework 1 JSON
 `$ git status`  
 `$ git add new.json`  
 `$ git commit -m "Update file json"`  
-`$ gut push origin`
+`$ gut push`
 9. Создать файл preferences.json.  
 `$ touch preferences.json`
 10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.  
@@ -46,7 +46,7 @@ Homework 1 JSON
 `$ git status`  
 `$ git add .`  
 `$ git commit -m "Update file json"`  
-`$ gut push origin`
+`$ gut push`
 13. На веб интерфейсе создать файл bug_report.json.  
 `# Создали файл bug_report.json.`
 14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.  
