@@ -5,8 +5,7 @@ Homework 1 JSON
 1. Создать внешний репозиторий c названием JSON.  
 `https://github.com/SanyaDS/JSON`
 2. Клонировать репозиторий JSON на локальный компьютер.  
-`$ git clone git@github.com:SanyaDS/JSON.git`  
-`$ yes`
+`$ git clone git@github.com:SanyaDS/JSON.git`
 3. Внутри локального JSON создать файл “new.json”.  
 `$ cd json`  
 `$ touch new.json`
