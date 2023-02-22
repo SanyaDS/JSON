@@ -36,6 +36,7 @@ Homework 1 JSON
 `:x`  
 `Enter # выходим из редактора vim.`
 11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON.  
+`$ touch skills.json`  
 `$ vim skills.json`  
 `i # добавляем информацию.`  
 `Esc`  
@@ -44,7 +45,7 @@ Homework 1 JSON
 12. Отправить сразу 2 файла на внешний репозиторий.  
 `$ git status`  
 `$ git add .`  
-`$ git commit -m "Update file json"`  
+`$ git commit -m "New file json"`  
 `$ gut push`
 13. На веб интерфейсе создать файл bug_report.json.  
 `# Создали файл bug_report.json.`
